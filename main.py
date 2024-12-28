@@ -68,4 +68,4 @@ class ImageEditor:
 app = QApplication([])  
 editor = ImageEditor()  
 apply_stylesheet(app, theme='dark_pink.xml')  
-app.exec_()
+app.exec_() #кінець
